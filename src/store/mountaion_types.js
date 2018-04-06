@@ -1,0 +1,7 @@
+export const GET_BARNDS = 'GET_BARNDS'
+export const GET_CURRENTBRANDS = 'GET_CURRENTBRANDS'
+export const ADD_TO_CURBRAND = 'ADD_TO_CURBRAND'
+export const CURRENTSERIES = 'CURRENTSERIES'
+export const GET_CURRENTSPEC = 'GET_CURRENTSPEC'
+export const GET_PRICE = 'GET_PRICE'
+export const GET_FAN = 'GET_FAN'
